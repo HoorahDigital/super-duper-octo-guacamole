@@ -5,6 +5,11 @@
   "doTmarcJourney": false,
   "appVersion":"0.99.5",
   "releaseLevel":1,
+  "releaseLevelsStaggered": [
+    0,
+    1,
+    3
+  ],
   "balanceList": [
     {
       "niceName": "--- Lander ---",
