@@ -10,6 +10,12 @@
     0,
     1
   ],
+  "featureList": {
+    "doDayNight": true,
+    "doTowerDefense": false,
+    "doMultiOutpost": false,
+    "doFoodInShop": false
+  },
   "balanceList": [
     {
       "niceName": "--- Lander ---",
