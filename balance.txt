@@ -12,9 +12,7 @@
   ],
   "featureList": {
     "doDayNight": true,
-    "doTowerDefense": false,
-    "doMultiOutpost": false,
-    "doFoodInShop": false
+    "doFoodInShop": true
   },
   "balanceList": [
     {
