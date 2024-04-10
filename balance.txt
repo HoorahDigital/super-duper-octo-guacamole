@@ -12,7 +12,7 @@
   ],
   "featureList": {
     "doDayNight": true,
-    "doFoodInShop": true
+    "doFoodInShop": false
   },
   "balanceList": [
     {
