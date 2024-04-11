@@ -3,7 +3,7 @@
   "notes": "releaseLevels",
   "lastUpdated": "2024/02/22 || 16:13 PM",
   "doTmarcJourney": false,
-  "appVersion":"0.99.5", 
+  "appVersion":"0.100.04", 
   "appVersionFallback":"0.100.04",
   "releaseLevel":1,
   "releaseLevelsStaggered": [
