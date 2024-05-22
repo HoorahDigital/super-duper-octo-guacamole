@@ -16,9 +16,9 @@
       "hyperlink": "WE NEED TO REPLACE THE DEFAULT BANNER IN ENGINE. ASK PIERRE.",
     },
     {
-      "bannerFileName": "misspelled filename",
+      "bannerFileName": "",
       "hyperlink": "", 
-      "comment":"we are forgiving - we mispelll sometmies"
+      "comment":"we are forgiving - we mispelll filenames sometmies. this will fallback to default sprite set in engine."
     },
     {
       "bannerFileName": "",
