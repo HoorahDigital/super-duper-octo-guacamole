@@ -6,13 +6,13 @@
       "comment":"some note on this banner. a simple throwaway field to leave ourselves comments"
     },
     {
-      "bannerFileName": "banner_2.jpg",
+      "bannerFileName": "banner_1.jpg",
       "hyperlink": "https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran",      
       "comment":""
     },
     {      
       "comment":"",
-      "bannerFileName": "banner_3.jpg",
+      "bannerFileName": "banner_2.jpg",
       "hyperlink": "",
     },
     {
