@@ -1,7 +1,7 @@
 {
   "bannerLinkPairs": [
     {
-      "bannerFileName": "banner_0.jpg",
+      "bannerFileName": "welcomeBannerDefault_1.jpg",
       "hyperlink": ""
     },
     {
@@ -10,6 +10,10 @@
     },
     {
       "bannerFileName": "banner_2.jpg",
+      "hyperlink": ""
+    },
+    {
+      "bannerFileName": "catchupBannerTmp4.png",
       "hyperlink": ""
     }
   ]
