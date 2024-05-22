@@ -13,7 +13,11 @@
       "hyperlink": ""
     },
     {
-      "bannerFileName": "catchupBannerTmp4.png",
+      "bannerFileName": "",
+      "hyperlink": ""
+    },
+    {
+      "bannerFileName": "",
       "hyperlink": ""
     }
   ]
