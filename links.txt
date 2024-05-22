@@ -1,0 +1,16 @@
+{
+  "bannerLinkPairs": [
+    {
+      "bannerFileName": "banner_0.jpg",
+      "hyperlink": ""
+    },
+    {
+      "bannerFileName": "welcomeBannerDefault_2.jpg",
+      "hyperlink": "https://www.iflscience.com/"
+    },
+    {
+      "bannerFileName": "banner_2.jpg",
+      "hyperlink": ""
+    }
+  ]
+}
