@@ -1,24 +1,29 @@
 {
   "bannerLinkPairs": [
     {
-      "bannerFileName": "wbanner_0.jpg",
-      "hyperlink": ""
+      "bannerFileName": "banner_0.jpg",
+      "hyperlink": "",
+      "comment":"some note on this banner. a simple throwaway field to leave ourselves comments"
     },
     {
       "bannerFileName": "banner_2.jpg",
-      "hyperlink": "https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran"
+      "hyperlink": "https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran",      
+      "comment":""
     },
-    {
+    {      
+      "comment":"",
       "bannerFileName": "banner_3.jpg",
-      "hyperlink": ""
+      "hyperlink": "",
+    },
+    {
+      "bannerFileName": "misspelled filename",
+      "hyperlink": "", 
+      "comment":"we are forgiving - we mispelll sometmies"
     },
     {
       "bannerFileName": "",
-      "hyperlink": ""
-    },
-    {
-      "bannerFileName": "",
-      "hyperlink": ""
+      "hyperlink": "onlyHyperText.html",
+      "comment":"we forget filenames, but we must not ever link to a 404."
     }
   ]
 }
