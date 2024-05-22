@@ -1,20 +1,20 @@
 {
   "bannerLinkPairs": [
     {
-      "bannerFileName": "welcomeBannerDefault_1.jpg",
+      "bannerFileName": "wbanner_0.jpg",
       "hyperlink": ""
-    },
-    {
-      "bannerFileName": "welcomeBannerDefault_2.jpg",
-      "hyperlink": "https://www.iflscience.com/"
     },
     {
       "bannerFileName": "banner_2.jpg",
+      "hyperlink": "https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran"
+    },
+    {
+      "bannerFileName": "banner_3.jpg",
       "hyperlink": ""
     },
     {
-      "bannerFileName": "banner_1.jpg",
-      "hyperlink": "https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran"
+      "bannerFileName": "",
+      "hyperlink": ""
     },
     {
       "bannerFileName": "",
