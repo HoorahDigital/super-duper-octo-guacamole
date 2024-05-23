@@ -10,10 +10,10 @@
       "hyperlink": "https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran",      
       "comment":""
     },
-    {      
-      "comment":"",
+    {
       "bannerFileName": "banner_2.jpg",
-      "hyperlink": "WE NEED TO REPLACE THE DEFAULT BANNER IN ENGINE. ASK PIERRE.",
+      "hyperlink": "",      
+      "comment":"REPLACED THE DEFAULT BANNER IN ENGINE. ASK PIERRE.",
     },
     {
       "bannerFileName": "",
