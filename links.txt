@@ -3,17 +3,17 @@
     {
       "bannerFileName": "banner_0.jpg",
       "hyperlink": "",
-      "comment":"some note on this banner. a simple throwaway field to leave ourselves comments"
+      "comment":"did you know - upgrading Explorers"
     },
     {
       "bannerFileName": "banner_1.jpg",
-      "hyperlink": "https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran",      
-      "comment":""
+      "hyperlink": "",      
+      "comment":"Explorer - Ouma Buttermilk"
     },
     {
       "bannerFileName": "banner_2.jpg",
-      "hyperlink": "",      
-      "comment":"REPLACED THE DEFAULT BANNER IN ENGINE. ASK PIERRE.",
+      "hyperlink": "https://wildspace.light-house.online/login",      
+      "comment":"Launch Pad PS5 competition",
     },
     {
       "bannerFileName": "",
