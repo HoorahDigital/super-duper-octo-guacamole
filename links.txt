@@ -3,15 +3,20 @@
     {
       "bannerFileName": "banner_0.jpg",
       "hyperlink": "",
-      "comment":"did you know - upgrading Explorers"
+      "comment":"update - Explorers"
     },
     {
       "bannerFileName": "banner_1.jpg",
       "hyperlink": "",      
-      "comment":"Explorer - Ouma Buttermilk"
+      "comment":"update - loading screen"
     },
     {
       "bannerFileName": "banner_2.jpg",
+      "hyperlink": "",      
+      "comment":"update - icon",
+    },
+    {
+      "bannerFileName": "banner_3.jpg",
       "hyperlink": "https://wildspace.light-house.online/login",      
       "comment":"Launch Pad PS5 competition",
     },
